@@ -1,0 +1,1 @@
+# Fix: removed insecure deserialization in user session handling
